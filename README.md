@@ -1,7 +1,7 @@
 # The Complete MSc Reference: AI & ML — Companion Notebooks
 
 **Official code companion for the book by Jijesh Puliyappottammal**  
-*Digichange Publication, 2026 | Digichange AI & Technology Series, Book 1*
+ AI & Technology Series, Book 4*
 
 ---
 
@@ -34,7 +34,7 @@ Click any notebook below and choose **Open in Colab**.
 ### Option 2 — Run locally
 
 ```bash
-git clone https://github.com/digichange/msc-ai-ml-companion.git
+git clone https://github.com/pJijesh/msc-ai-ml-companion.git
 cd msc-ai-ml-companion
 pip install -r requirements.txt
 jupyter notebook
@@ -180,7 +180,7 @@ Notebooks are designed to be **self-contained** — students can run each indepe
 
 - **Book on Amazon KDP:** *(link to be added after publication)*
 - **Author:** [Jijesh Puliyappottammal](https://www.linkedin.com/in/jijesh)
-- **Publisher:** [Digichange Publication](https://digichangepublication.com)
+
 - **Issues / corrections:** Please open a GitHub issue
 
 ---
